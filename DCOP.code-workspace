@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "DCOP"
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local"
+	}
+}
